@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBkN8Yt3jlyJ3Wp/giphy.gif" width="100"/>
-</div>
 
 # Hi there, I'm Wuyika Serge Kevin 👋
 
