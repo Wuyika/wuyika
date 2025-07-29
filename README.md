@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBkN8Yt3jlyJ3Wp/giphy.gif" width="100"/>
 </div>
 
-# Hi there, I'm [Your Name - optional] 👋
+# Hi there, I'm Wuyika Serge Kevin 👋
 
 I'm a **Results-oriented Mobile Software Engineer** with over 4 years of experience crafting high-performance iOS and Android applications using **Flutter** and **Dart**. I'm passionate about leveraging technology to solve real-world problems and enhance user satisfaction through robust, pixel-perfect, and efficient mobile solutions.
 
@@ -36,11 +36,13 @@ I'm a **Results-oriented Mobile Software Engineer** with over 4 years of experie
 
 -   **Mobile Software Engineer @ Camsol Services GmbH (Remote):** Enhanced cylinder app development by implementing automated testing and CI/CD, reducing deployment time by 30%. Achieved zero UI bug reports from implementing pixel-perfect designs.
 -   **Software Engineer @ Zinger Systems Ltd:** Assisted in the development of a mobile ride-sharing app (Motowa - 100+ downloads in first month). Refactored code for 50% crash reduction. Implemented map view using Flutter maps and Open Route Service API.
--   **Flutter Developer (Open Source) @ Trakli Community:** Collaborated on project architecture, implemented authentication UIs, reusable widgets, and app language localization (English/French).
+-   **Flutter Developer (Open Source) @ Trakli Community:** Collaborated on project architecture, implemented app UIs, reusable widgets, and app language localization (English/French).
 -   **Projects:**
     * **Health Management App** (Graduation Project)
     * **WorkSync** (Employee attendance app)
     * **Bolamba** (E-Commerce App)
+    * **Sajent** (Jewelry App)
+
 
 ---
 
@@ -48,6 +50,7 @@ I'm a **Results-oriented Mobile Software Engineer** with over 4 years of experie
 
 -   Ongoing certification: Meta Android/iOS Developer
 -   Diving deeper into Kotlin Multiplatform Mobile (KMM) for cross-platform excellence.
+-   Flutter app development for keeping up to date.
 
 ---
 
@@ -55,8 +58,8 @@ I'm a **Results-oriented Mobile Software Engineer** with over 4 years of experie
 
 I'm always open to discussing new opportunities, collaborating on innovative projects, or just chatting about mobile development.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wuyika-serge-kevin/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sergekevin11) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinwuyika@gmail.com)
 
 ---
 
